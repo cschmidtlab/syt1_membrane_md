@@ -8,7 +8,7 @@ Analyses were performed separately for C2A and C2B so there are two notebooks fo
 
 ### Get the data
 
-* Download the simulation data from Zenodo (link follows)
+* Download the simulation data from [Zenodo](https://zenodo.org/doi/10.5281/zenodo.10478555)
    * Uploaded xtc files are preprocessed and include one frame for every 1 ns simulation time. 
 * Extract the zip folder in the same folder as this repo
 
